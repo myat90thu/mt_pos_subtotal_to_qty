@@ -24,6 +24,6 @@
             'mt_pos_subtotal_to_qty/static/src/**/*',
         ],
     },
-    'images': ['static/description/icon.png'],
+    'images': ['static/description/images/sample-pos-setsubtotal.png'],
     'license': 'LGPL-3',
 }
